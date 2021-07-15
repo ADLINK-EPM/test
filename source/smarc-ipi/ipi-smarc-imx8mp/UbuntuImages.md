@@ -7,7 +7,7 @@
 
 ## Binary Image download Link
 
-Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-IMX8MP-2G-IPi-SMARC-PLUS-Ubuntu20_04-1v4-20210602.zip)
+Ubuntu 20.04 LTS with Wayland desktop (size of compressed file: 1.6 GB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Ubuntu/LEC-IMX8MP-2G-IPi-SMARC-PLUS-Ubuntu20_04-1v7-20210715.zip)
 
 **Note**:
 

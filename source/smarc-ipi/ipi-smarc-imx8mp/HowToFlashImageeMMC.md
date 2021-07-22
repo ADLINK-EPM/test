@@ -17,10 +17,16 @@ This document provides the detailed instructions of how to flash the image to eM
 
 ## Windows Host
 
-- Download Win32DiskImager software for flashing image [click here](https://win32diskimager.download/) and install it on your host computer.
-- Open Win32 Disk Imager and it will automatically detect the target board as a device.
-- Now click file explorer icon and and browse to the image file which you have previously copied to your working directory on the development host and select it.
-- Then click **Write** and wait for the process to be successful, it might take several minutes.
+- Download and install on your host computer Win32DiskImager [click here](https://win32diskimager.download/). Win32DiskImager is used to flash your system image.
+- Open Win32 Disk Imager and select the target board as device, be sure not to select any other conneted USB drive.
+- Be sure to connect both power and micro USB OTG cable to the target board.
+
+- Open your file explorer and browse to the image file which you have previously downloaded.
+
+**Note**
+	Without the power connected, board will not come up.
+
+
 
 <img src="HowToFlashImageeMMC.assets\win32_1.PNG" alt="logo" style="zoom:100%; margin-left: auto; margin-right: auto; display: block;" />
 

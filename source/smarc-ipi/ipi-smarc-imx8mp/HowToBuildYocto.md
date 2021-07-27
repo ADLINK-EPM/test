@@ -1,5 +1,7 @@
 # **How to Build Yocto**
 
+<div class = "bullets">
+
 The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture. This procedure will help you build Yocto image for **I-Pi SMARC IMX8M Plus**
 
 ## **1. Set up a build host environment:**
@@ -59,7 +61,9 @@ $ mkdir imx-yocto-bsp
 $ cd imx-yocto-bsp
 ```
 
-### **Start to download the source ** 
+
+
+**Start to download the source ** 
 
 ```shell
 $ repo init -u https://github.com/ADLINK/adlink-manifest -b lec-imx-yocto-zeus -m adlink-lec-imx8mp-yocto-zeus_1v1.xml
@@ -84,3 +88,4 @@ After the build is complete, disk images will be located at work-dir/build-dir/t
 $ bunzip2 -dk -f <image_name>.wic.bz2
 ```
 
+</div>

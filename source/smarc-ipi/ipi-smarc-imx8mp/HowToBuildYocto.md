@@ -1,8 +1,6 @@
 # **How to Build Yocto**
 
-<div class = "bullets">
-
-The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture. This procedure will help you build Yocto image for **I-Pi SMARC IMX8M Plus**.
+The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture. This procedure will help you build Yocto image for **I-Pi SMARC IMX8M Plus**
 
 ## **1. Set up a build host environment:**
 
@@ -16,7 +14,7 @@ The Yocto Project (YP) is an open source collaboration project that helps develo
 
 <br>
 
-### **Essential host Packages required to be installed in your host :**
+### &nbsp;**Essential host Packages required to be installed in your host :**
 
 ```python
 $ sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib \
@@ -61,28 +59,28 @@ $ mkdir imx-yocto-bsp
 $ cd imx-yocto-bsp
 ```
 
-### **Start to download the source and build with the commands below** 
+### **Start to download the source ** 
 
 ```shell
 $ repo init -u https://github.com/ADLINK/adlink-manifest -b lec-imx-yocto-zeus -m adlink-lec-imx8mp-yocto-zeus_1v1.xml
 $ repo sync
 $ MACHINE=lec-imx8mp DISTRO=fslc-xwayland BUILD=build source adlink-imx-setup-release.sh
-$ bitbake imx-image-multimedia
 ```
 
-### **Image is generated as wic.bz2, use below command to unzip** 
+### 3. Build the Image
+
+Choose the Image recipe with the supported hardware
+
+| Module name                        | Yocto branch | bitbake command                  |
+| :--------------------------------- | :----------- | :------------------------------- |
+| lec-imx8mp + Wayland desktop (GUI) | zeus         | `$ bitbake imx-image-multimedia` |
+| lec-imx8mp + console (CLI)         | zeus         | `$ bitbake core-image-minimal`   |
+
+After the build is complete, disk images will be located at work-dir/build-dir/tmp/deploy/image/lec-imx8mp/ 
+
+### Image is generated as wic.bz2, use below command to unzip
 
 ```shell
 $ bunzip2 -dk -f <image_name>.wic.bz2
 ```
-</div>
-<style>
-.bullets ul li {
-    list-style-type: disc;
- }
- .bullets ol li {
-    list-style-type: decimal;
- }
- </style>
-
 

@@ -8,7 +8,7 @@
 	
 * Connect micro USB OTG cable from target board to the host device.
 
-* The target board will be detected as USB device in the host computer, where you can flash the downloaded prebuilt image.
+* The target board will be detected as USB device in the host computer, where you can flash the downloaded prebuilt image, as described for [SD Card](HowToFlashImageSD.html) and [eMMC](HowToFlashImageeMMC.html) under the software documentation. 
 	
 * After successful booting, the Wayland desktop screen should be visible on the connected display.
 

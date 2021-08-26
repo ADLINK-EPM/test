@@ -5,7 +5,7 @@
 <div class= "bullets">
 
 ### Binary Image Download Link
-* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 823 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_v1.6_20210712.zip)
+* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 823 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_1v7_20210826.zip)
 * All Versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
   
     <div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-iMX8MP/Images/Yocto/&amp;pageLevel=0" scrolling="no">

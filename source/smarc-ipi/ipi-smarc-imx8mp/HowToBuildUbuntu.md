@@ -193,9 +193,9 @@ $ sudo umount rootfs/
 
 1. Download the Yocto IMX8MP image
 
-For 2G image [click here](https://hq0epm0west0us0storage.blob.core.windows.net/%24web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_v1.6_20210712.zip)
+For 2G image [click here](https://hq0epm0west0us0storage.blob.core.windows.net/%24web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_1v7_20210826.zip)
 
-For 4G image [click here](https://hq0epm0west0us0storage.blob.core.windows.net/%24web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-4G-IPi-SMARC-PLUS_Yocto-zeus_v1.3_20210519.zip)
+For 4G image [click here](https://hq0epm0west0us0storage.blob.core.windows.net/%24web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-4G-IPi-SMARC-PLUS_Yocto-zeus_1v7_20210826.zip)
 
 Unzip the file and flash the Image into SD card
 

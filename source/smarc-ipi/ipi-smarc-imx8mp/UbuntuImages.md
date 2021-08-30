@@ -41,7 +41,7 @@ The default home screen of Ubuntu 20.04 of I-Pi SMARC IMX8M Plus appears like ab
 
 ## Supported features & interfaces
 
-- Linux Kernel version: **5.4.70**
+- Linux Kernel version: **5.10.35**
 - 2D / 3D Graphics Acceleration which supports Wayland
 - [40 Pin expansion Header](UserInterfaces.html)  with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript
 - [SEMA 4.0](https://adlink-epm.github.io/sema-doc/#/) (Smart Embedded Management Agent) support the functions such as CPU temperature, voltage monitoring total up time, ... etc.

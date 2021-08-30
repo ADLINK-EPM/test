@@ -42,14 +42,13 @@ Boot up the system by flashing Image from the SD card/eMMC, you will see the fol
 
 ### Android supported features & interfaces 
 
-*  Linux kernel version 5.4.70.
+*  Linux kernel version 5.10.35
 *  Supports H.265, H.264, MPEG-4, VP8, and VC-1 video codec with up to 1080p60fps.
 *  2D / 3D Graphics Acceleration which supports Wayland.
 *  4x USB 2.0 ports.
 *  2x 10/100 Mb LAN ports.
 *  HDMI output with resolution 1920x1080@60Hz.
-*  Analog to Digital input interface (ADS1115).
-*  Audio & speaker (Realtek ALC5640 Codec).
+*  Audio & speaker.
 *  USB OTG support ADB Shell.
 *  CAN FD Bus interface.
 *  [40 Pin expansion header](UserInterfaces.html) with UART, I2C, SPI, GPIO and PWM support.

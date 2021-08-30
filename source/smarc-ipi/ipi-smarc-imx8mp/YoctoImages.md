@@ -1,11 +1,11 @@
 <img align="right" src="YoctoImages.assets/yocto_project_eebe407216.png"  />  
 
-# Yocto Zeus with Wayland Desktop Environment
+# Yocto Hardknott with Wayland Desktop Environment
 
 <div class= "bullets">
 
 ### Binary Image Download Link
-* Yocto Zeus with Wayland Desktop + MRAA/UPM (size of compressed file: 823 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_1v7_20210826.zip)
+* Yocto Hardknott with Wayland Desktop + MRAA/UPM (size of compressed file: 659 MB): [click here](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/SMARC/LEC-iMX8MP/Images/Yocto/LEC-IMX8MP-2G-IPi-SMARC-PLUS_Yocto-zeus_1v7_20210826.zip)
 * All Versions: <a data-toggle="collapse" data-target="#demo" href="#">click here</a>
   
     <div id="demo" class="iframe-container collapse" style="z-index: 100; background-color: white;"><iframe class="download-area" src="https://hq0epm0west0us0storage.z22.web.core.windows.net/?prefix=public/SMARC/LEC-iMX8MP/Images/Yocto/&amp;pageLevel=0" scrolling="no">
@@ -50,7 +50,7 @@ Boot the system with the eMMC or SD card placed in the slot located on the carri
 ### Supported features & interfaces 
 
 
-* Linux Kernel version: **5.4.70**
+* Linux Kernel version: **5.10.35**
 *  [40 Pin expansion Header](UserInterfaces.html) with [Eclipse Mraa library](https://github.com/eclipse/mraa) and [Eclipse UPM library](https://github.com/eclipse/upm) which supports C/C++, Python, JAVA and JavaScript
 *  [SEMA 4.0](https://adlink-epm.github.io/sema-doc/#/) (Smart Embedded Management Agent) support the functions such as CPU temperature, voltage monitoring total up time, ... etc.
 *  2D / 3D Graphics Acceleration which supports Wayland

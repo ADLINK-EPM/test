@@ -31,7 +31,7 @@ This procedure describes how to flash **Ubuntu/Debian/Yocto/Android** image to t
 
 1. Copy the prebuilt bootable Ubuntu/Debian image to the working directory on your development host. Insert an empty SD Card into the development host and enter the following command to copy the .img to the SD Card.
 
-   **Warning**: Make sure you first properly identify the SD Card device name as for example /dev/sdb or /dev/sdc. For example insert the SD Card and than check device name with dmesg. Data loss may result if written to the wrong device or in the worst case you kill your hosts OS.
+   **Warning**: Make sure you first properly identify the SD Card device name as for example (/dev/sdb or /dev/sdc) by using "gparted". Data loss may result if written to the wrong device or in the worst case you kill your hosts OS.
 
    ```python
    $ sudo dd if=[your image].img of=/dev/sd[x]

@@ -5,6 +5,7 @@ title: Examples & How-to
 
 | **Tutorials**                                                |                        **Video link**                        |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
+| **[Flashing Ubuntu/Debian image into a MicroSD card using Windows host ](examples&howto/FlashingUbuntuDebianImageintoMicroSD.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/SyhULE1yg00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |
 | **[Candera CGI Studio demo on I-Pi SMARC IMX8M Plus devkit ](examples&howto/CanderaCGIStudioDemo.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/c5Y6ZzdD3sY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |
 | **[Boot to Qt Demo ](examples&howto/BootToQtDemo.html)**     | <iframe width="150" height="100" src="https://www.youtube.com/embed/Ek6-GRseyII" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |
 | **[eIQ ML software demo on NXP i.MX 8M Plus development kit  ](examples&howto/eIQMLsoftwareDemo.html)** | <iframe width="150" height="100" src="https://www.youtube.com/embed/0TG4vyJSRY4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> |

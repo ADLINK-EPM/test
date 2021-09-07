@@ -1,6 +1,7 @@
 # Flashing Ubuntu/Debian Image into MicroSD Card using Windows host
 
 In this tutorial, we describe the procedures on how to flash **Ubuntu/Debian** image into MicroSD Card on Windows environment.
+
 <div class="bullets">
 
 ## Prerequisites

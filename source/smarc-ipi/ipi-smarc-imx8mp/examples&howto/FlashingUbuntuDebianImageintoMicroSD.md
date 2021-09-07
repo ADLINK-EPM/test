@@ -52,13 +52,13 @@ In this tutorial, we describe the procedures on how to flash **Ubuntu/Debian** i
 10. Power on the board to boot.
 
 
-####Default home screen for Ubuntu
+#### Default home screen for Ubuntu
 
 
 ![Screenshot_2](FlashingUbuntuDebianImageintoMicroSD/Screenshot_2.png)
 
 
 
-####Default home screen for Debian
+#### Default home screen for Debian
 
-![yocto_boot_screen](FlashingUbuntuDebianImageintoMicroSDs/yocto_boot_screen.png)
+![yocto_boot_screen](FlashingUbuntuDebianImageintoMicroSD/yocto_boot_screen.png)

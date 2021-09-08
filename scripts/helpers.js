@@ -108,7 +108,7 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
 
 		  }
 		  
-	      pre_text_temp = '<strong class="' + className + '-text">' +  '<details open>' + '<summary>' + self.__(prefix + text) + '</summary>';
+	      pre_text_temp = '<strong class="' + className + '-text">' +  '<details >' + '<summary>' + self.__(prefix + text) + '</summary>';
 		  pre_open_text_temp = '<strong class="' + className + '-text">' +  '<details open>' + '<summary>' + self.__(prefix + text) + '</summary>';
 	  }
 	  else

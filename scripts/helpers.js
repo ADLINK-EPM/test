@@ -108,7 +108,7 @@ hexo.extend.helper.register('doc_sidebar', function(className) {
 
 		  }
 		  
-	      pre_text_temp = '<strong class="' + className + '-text">' +  '<details >' + '<summary>' + self.__(prefix + text) + '</summary>';
+	      pre_text_temp = '<strong class="' + className + '-text">' +  '<details open>' + '<summary>' + self.__(prefix + text) + '</summary>';
 		  pre_open_text_temp = '<strong class="' + className + '-text">' +  '<details open>' + '<summary>' + self.__(prefix + text) + '</summary>';
 	  }
 	  else
@@ -260,7 +260,7 @@ hexo.extend.helper.register('canonical_path_for_nav', function() {
 
  
  if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'iot-pi/') || startsWith(path, 'tutorial/') ) 
- // if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'smarc-plus/')|| startsWith(path, 'iot_pi/') || startsWith(path, 'tutorial/') )
+//  if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'smarc-plus/')|| startsWith(path, 'iot_pi/') || startsWith(path, 'tutorial/') )
   {   
 	return path;
   }

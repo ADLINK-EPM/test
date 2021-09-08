@@ -67,4 +67,13 @@ In this tutorial, we describe the procedures on how to flash **Ubuntu/Debian** i
 
 ![yocto_boot_screen](FlashingUbuntuDebianImageintoMicroSD/yocto_boot_screen.png)
 
+
+
+
+
+<div class="contentiframe">
+
+<iframe  class="responsive-iframe"  width="640" height="480" src="https://www.youtube.com/embed/SyhULE1yg00"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+</div>
 </div>

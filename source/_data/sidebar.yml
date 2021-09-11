@@ -8,18 +8,20 @@ smarc-ipi:
     Module Introduction: /smarc-ipi/ipi-smarc-px30/ModuleIntroduction.html
     Carrier Introduction: /smarc-ipi/ipi-smarc-px30/CarrierIntroduction.html
     Software Documentation:
-    Debian: /smarc-ipi/ipi-smarc-px30/DebianImages.html
-    Ubuntu: /smarc-ipi/ipi-smarc-px30/UbuntuImages.html
     Yocto: /smarc-ipi/ipi-smarc-px30/YoctoImages.html
+    Ubuntu: /smarc-ipi/ipi-smarc-px30/UbuntuImages.html
     Android: /smarc-ipi/ipi-smarc-px30/AndroidImages.html
+    Debian: /smarc-ipi/ipi-smarc-px30/DebianImages.html
     Prepare your SD Card: /smarc-ipi/ipi-smarc-px30/HowToFlashImage.html
     Software Guideline:
-    How to Build Debian: /smarc-ipi/ipi-smarc-px30/HowToBuildDebian.html
-    How to Build Ubuntu: /smarc-ipi/ipi-smarc-px30/HowToBuildUbuntu.html
     How to Build Yocto:  /smarc-ipi/ipi-smarc-px30/HowToBuildYocto.html
+    How to Build Ubuntu: /smarc-ipi/ipi-smarc-px30/HowToBuildUbuntu.html
+    How to Build Debian: /smarc-ipi/ipi-smarc-px30/HowToBuildDebian.html
     How to Build U-boot:  /smarc-ipi/ipi-smarc-px30/HowToBuildUboot.html
     How to Install MRAA&UPM: /smarc-ipi/ipi-smarc-px30/HowToInstallMRAAUPM.html
     Examples & How-to: /smarc-ipi/ipi-smarc-px30/ExampleHowto.html
+    Software Partners:
+    CANDERA CGI Studio: /smarc-ipi/ipi-smarc-px30/CanderaCGIStudioPage.html
   I-Pi SMARC IMX8M Plus:
     Getting Started: 
     UnBoxing: /smarc-ipi/ipi-smarc-imx8mp/UnBoxing.html
@@ -29,13 +31,16 @@ smarc-ipi:
     Module Introduction: /smarc-ipi/ipi-smarc-imx8mp/ModuleIntroduction.html
     Carrier Introduction: /smarc-ipi/ipi-smarc-imx8mp/CarrierIntroduction.html
     Software Documentation:
-    Debian: /smarc-ipi/ipi-smarc-imx8mp/DebianImages.html
+    Yocto: /smarc-ipi/ipi-smarc-imx8mp/YoctoImages.html
     Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/UbuntuImages.html
-    Yocto: /smarc-ipi/ipi-smarc-imx8mp//YoctoImages.html
     Android: /smarc-ipi/ipi-smarc-imx8mp/AndroidImages.html
+    Prepare your SD Card: /smarc-ipi/ipi-smarc-imx8mp/HowToFlashImageSD.html
+    Prepare your eMMC: /smarc-ipi/ipi-smarc-imx8mp/HowToFlashImageeMMC.html
     Software Guideline:
     How to Build Yocto: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildYocto.html
     How to Build Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildUbuntu.html
     Examples & How-to: /smarc-ipi/ipi-smarc-imx8mp/ExampleHowto.html
     AI Inferencing on NPU:
     AI Inferencing: /smarc-ipi/ipi-smarc-imx8mp/AIInferencingOnNPU.html
+    Software Partners:
+    CANDERA CGI Studio: /smarc-ipi/ipi-smarc-imx8mp/CanderaCGIStudioPage.html

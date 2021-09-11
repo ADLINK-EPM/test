@@ -8,8 +8,8 @@ var cheerio = require('cheerio');
 var lunr = require('lunr');
 
  
-var localizedPath = ['smarc-ipi','iot_pi', 'tutorial'];
-//var localizedPath = ['smarc-ipi','iot_pi', 'tutorial','smarc-plus',];
+//var localizedPath = ['smarc-ipi','iot_pi', 'tutorial'];
+var localizedPath = ['smarc-ipi','iot_pi', 'tutorial','smarc-plus',];
 
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;
@@ -259,9 +259,8 @@ hexo.extend.helper.register('canonical_path_for_nav', function() {
   var path = this.page.canonical_path;
 
  
- if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'iot-pi/') || startsWith(path, 'tutorial/') ) 
-//  if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'smarc-plus/')|| startsWith(path, 'iot_pi/') || startsWith(path, 'tutorial/') )
-  {   
+// if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'iot-pi/') || startsWith(path, 'tutorial/') ) 
+  if (startsWith(path, 'smarc-ipi/') || startsWith(path, 'smarc-plus/')|| startsWith(path, 'iot_pi/') || startsWith(path, 'tutorial/') ){   
 	return path;
   }
   return '';

@@ -22,26 +22,25 @@ smarc-ipi:
     Examples & How-to: /smarc-ipi/ipi-smarc-px30/ExampleHowto.html
     Software Partners:
     CANDERA CGI Studio: /smarc-ipi/ipi-smarc-px30/CanderaCGIStudioPage.html
-smarc-plus:
   I-Pi SMARC IMX8M Plus:
     Getting Started: 
-    UnBoxing: /smarc-plus/index.html
-    User Interfaces: /smarc-plus/UserInterfaces.html
-    How to Setup: /smarc-plus/HowToSetup.html
+    UnBoxing: /smarc-ipi/ipi-smarc-imx8mp/UnBoxing.html
+    User Interfaces: /smarc-ipi/ipi-smarc-imx8mp/UserInterfaces.html
+    How to Setup: /smarc-ipi/ipi-smarc-imx8mp/HowToSetup.html
     Hardware Documentation:
-    Module Introduction: /smarc-plus/ModuleIntroduction.html
-    Carrier Introduction: /smarc-plus/CarrierIntroduction.html
+    Module Introduction: /smarc-ipi/ipi-smarc-imx8mp/ModuleIntroduction.html
+    Carrier Introduction: /smarc-ipi/ipi-smarc-imx8mp/CarrierIntroduction.html
     Software Documentation:
-    Yocto: /smarc-plus/YoctoImages.html
-    Ubuntu: /smarc-plus/UbuntuImages.html
-    Android: /smarc-plus/AndroidImages.html
-    Prepare your SD Card: /smarc-plus/HowToFlashImageSD.html
-    Prepare your eMMC: /smarc-plus/HowToFlashImageeMMC.html
+    Yocto: /smarc-ipi/ipi-smarc-imx8mp/YoctoImages.html
+    Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/UbuntuImages.html
+    Android: /smarc-ipi/ipi-smarc-imx8mp/AndroidImages.html
+    Prepare your SD Card: /smarc-ipi/ipi-smarc-imx8mp/HowToFlashImageSD.html
+    Prepare your eMMC: /smarc-ipi/ipi-smarc-imx8mp/HowToFlashImageeMMC.html
     Software Guideline:
-    How to Build Yocto: /smarc-plus/HowToBuildYocto.html
-    How to Build Ubuntu: /smarc-plus/HowToBuildUbuntu.html
-    Examples & How-to: /smarc-plus/ExampleHowto.html
+    How to Build Yocto: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildYocto.html
+    How to Build Ubuntu: /smarc-ipi/ipi-smarc-imx8mp/HowToBuildUbuntu.html
+    Examples & How-to: /smarc-ipi/ipi-smarc-imx8mp/ExampleHowto.html
     AI Inferencing on NPU:
-    AI Inferencing: /smarc-plus/AIInferencingOnNPU.html
+    AI Inferencing: /smarc-ipi/ipi-smarc-imx8mp/AIInferencingOnNPU.html
     Software Partners:
-    CANDERA CGI Studio: /smarc-plus/CanderaCGIStudioPage.html
+    CANDERA CGI Studio: /smarc-ipi/ipi-smarc-imx8mp/CanderaCGIStudioPage.html
